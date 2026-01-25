@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
-namespace ServiceProvider
+namespace Scripts.ServiceProvider
 {
     public static class ServiceProvider
     {
