@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd8553c41e5a42e9842a3a2d500c8ed6, type: 3}
+  m_Name: PressUp
+  m_EditorClassIdentifier: Assembly-CSharp::HappyInputs.Scripts.Core.Data.InputActionData
+  actionName: PressUp
+  actionReference: {fileID: -6908812591756628664, guid: 2d08641f8d674b64bbb40f70eab7181e, type: 3}
+  inputType: 1
+  holdDuration: 0.5
+  doubleTapWindow: 0.3
